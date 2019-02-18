@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="courses">
+        <item>CSCI 395</item>
+        <item>CSCI 495</item>
+        <item>CSCI 340</item>
+        <item>Painting 1</item>
+        <item>German 313</item>
+    </string-array>
+</resources>
